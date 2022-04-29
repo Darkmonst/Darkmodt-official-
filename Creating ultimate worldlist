@@ -22,7 +22,7 @@ print (red+b+"""
 
 print (gren+b+"            <===[[ coded by Darkmost ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"     <---( Subscribe https://m.youtube.com/channel/UCjYzCABJDBvWK41R9gWjCqg )--->"+b+yellow)
+print (yellow+b+"     <---( Subscribe to YJ_MAD_00 )--->"+b+yellow)
 print (" ")
 
 length=int(raw_input(cyan+b+"Enter the number of characters: "+b+cyan))
